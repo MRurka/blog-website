@@ -5,7 +5,7 @@ date:   2015-01-01 22:30:28
 categories: New Years Resolutions
 ---
 
-#2015.resolutions {
+#2015 Resolutions {
 - Splits
 - AJAX
 - AACE
@@ -21,7 +21,6 @@ categories: New Years Resolutions
 - Start + Maintain a blog
 - Make a mind-blowing portfolio website
 - Get a dam Isar Rucksack
-}
 
 
 
