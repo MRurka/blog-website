@@ -6,10 +6,10 @@ categories: New Years Resolutions
 ---
 
 #2015.resolutions {
-    - Splits
-    - AJAX
-    - AACE
-    - Passport
+- Splits
+- AJAX
+- AACE
+- Passport
 - Voyage
 - Martial Arts
 - Elephant Drawings
