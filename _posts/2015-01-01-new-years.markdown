@@ -4,12 +4,12 @@ title:  "New Year Resolutions"
 date:   2015-01-01 22:30:28
 categories: New Years Resolutions
 ---
-```css
+
 #2015.resolutions {
-- Splits
-- AJAX
-- AACE
-- Passport
+    - Splits
+    - AJAX
+    - AACE
+    - Passport
 - Voyage
 - Martial Arts
 - Elephant Drawings
@@ -22,7 +22,7 @@ categories: New Years Resolutions
 - Make a mind-blowing portfolio website
 - Get a dam Isar Rucksack
 }
-```
+
 
 
 
