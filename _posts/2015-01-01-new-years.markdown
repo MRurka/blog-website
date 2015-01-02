@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New Year Resolutions"
+date:   2015-01-01 22:30:28
+categories: New Years Resolutions
+---
+```
+- Splits
+- AJAX
+- AACE
+- Passport
+- Voyage
+- Martial Arts
+- Elephant Drawings
+- Learn Chinese
+```
+
+Not much else to say. Jekell is pretty cool.
+
