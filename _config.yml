@@ -3,7 +3,6 @@ title: RUDE Blog
 email: michael@rurkadesign.com  
 description: > # this means to ignore newlines until "baseurl:"
   Designer, Front-Ender.
-  
 baseurl: "/blog-website" # the subpath of your site, e.g. /blog/
 url: "http://mrurka.github.io" # the base hostname & protocol for your site
 twitter_username: rurkadesign
