@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Year Resolutions"
+title:  "2015 Resolutions"
 date:   2015-01-01 22:30:28
 categories: New Years Resolutions
 ---
@@ -20,7 +20,7 @@ categories: New Years Resolutions
 - Startup Weekend
 - Start + Maintain a blog
 - Make a mind-blowing portfolio website
-- Get a dam Isar Rucksack
+- Get a dam <a href="http://www.minimallyminimal.com/blog/cteciel-isar-rucksack" target="_blank">Isar Rucksack</a>
 
 
 
