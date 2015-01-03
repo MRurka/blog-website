@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Designer, Front-Ender.
 baseurl: "/blog-website" # the subpath of your site, e.g. /blog/
 url: "http://mrurka.github.io" # the base hostname & protocol for your site
+# permalink: /:categories/:title
 twitter_username: rurkadesign
 github_username:  MRurka
 
