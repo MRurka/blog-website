@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Efficient Aesthetics and Optimal Function (AKA Forced blog post for the sake of writing something)"
+title:  "Efficient Aesthetics and Optimal Function (AKA Forced blog post for the sake of writing something for work)"
 date:   2015-01-02 17:29:40
 categories: Crap
 ---
